@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <title>Events</title>  
+
+        <link rel="icon" href="img/date.png">
+
+    </head>
+
+
+
+
+
+    <body bgcolor="Black"style="color: white">
+
+        <center>
+
+        <h1>Upcoming Events 📅</h1>
+
+        <p>Don't miss any of your important events.stay updated</p>
+
+        </center>
+
+
+
+        <hr>
+
+        <p>
+
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem itaque, magnam sunt iusto totam cumque nobis officiis molestias! Illum autem ut provident animi eveniet. Debitis, ab fuga cupiditate laboriosam vero, aliquid deserunt nemo voluptatibus error voluptatum officia aperiam reiciendis aut ad perferendis quia culpa quam nobis! Quibusdam natus suscipit nulla sit voluptas perspiciatis eum molestias iure, impedit, hic quae voluptates consequuntur officia expedita perferendis? Quia ut maxime alias culpa, laudantium molestiae nesciunt eligendi cupiditate vitae id, provident, enim quas maiores beatae hic molestias nemo voluptatem fuga delectus. Eligendi deleniti debitis excepturi inventore consectetur laboriosam esse, eaque quos molestias, natus suscipit?
+
+        </p>
+
+        <center>
+
+        <img src="img/event1.png">
+
+        <h1>Photo Gallery</h1>
+
+        <h2>Free Entry | Free Food |Pets are not allowed</h2>
+
+        <p>
+
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit natus enim expedita quaerat. Ad, adipisci voluptatibus. Soluta ullam explicabo laboriosam quidem rerum qui est. Mollitia adipisci fugit numquam hic rem non corporis, at esse quod accusamus ut quo, distinctio ea itaque dolore ad cumque soluta veritatis eos dignissimos. Repellendus, similique!
+
+        </p>
+
+    </center>
+
+    <center>
+
+        <img src="img/event2.png">
+
+        <h1>
+
+            <a href="https://www.flipkart.com/">Fashion Store</a>
+
+        </h1>
+
+        <h2>Free Entry | Free Food |Pets are not allowed</h2>
+
+        <p>
+
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit natus enim expedita quaerat. Ad, adipisci voluptatibus. Soluta ullam explicabo laboriosam quidem rerum qui est. Mollitia adipisci fugit numquam hic rem non corporis, at esse quod accusamus ut quo, distinctio ea itaque dolore ad cumque soluta veritatis eos dignissimos. Repellendus, similique!
+
+        </p>
+
+    </center>
+
+
+
+    <hr>
+
+    <center>
+
+    <h1>contact</h1>
+
+    <h2>9994364308 | deepakkumar777c@gmail.com</h2>
+
+    <p>Namakkal,NAGERCIOL ROAD</p>
+
+    </center>
+
+    </body>
+
+
+
+
+
+</html>
+
